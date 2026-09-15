@@ -3,7 +3,7 @@
 <h3 align="left">Game Design & Development graduate skilled in Unity development. Specialized in creating immersive VR applications. Enthusiastic about game localization to elevate gaming experiences globally. </h3>
 <img align="right" alt="Coding" width=350 src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
-- 🎮 I'm currently working on **KACHIN** 
+- 🎮 I'm currently working on **KACHIN!** 
 
 - 🌱 I'm currently learning **Unreal Engine**
 
